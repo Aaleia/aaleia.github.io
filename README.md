@@ -1,5 +1,7 @@
-# (aaleia.github.io)
+# Aaleia Fernando
+Photo
+Bio with fun fact
 
-    * Your name, photo, short bio with one fun fact about yourself.  
-    * A link to your resume.
-    * Links to your LinkedIn, and Github Profile.
+[Resume](https://drive.google.com/file/d/1kKfQiFPgB6d1xfuV5jX2vPVyyrUjNSmw/view?usp=sharing)
+[LinkedIn](https://linkedin.com/in/Aaleia)
+[Github](https://github.com/Aaleia)
